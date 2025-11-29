@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eldhos
 - 👀 I’m interested in Software Development as a medium through which I am able to help people in their day to day life.
-- 🌱 I’m currently enrolled on a MSc Software Development program at the University of Glasgow.
+- 🌱 I’m currently working as an Analyst Programmer at Ueno International Corporation, Osaka.
 - 📫 How to reach me; Email: eldhosthomas001@gmail.com
 
 <!---
