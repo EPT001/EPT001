@@ -9,7 +9,6 @@ Email: eldhosthomas001@gmail.com
 
 
 
-
 - 👋 Hi, I’m Eldhos
 - 👀 I’m interested in Software Development as a medium through which I am able to help people in their day to day life.
 - 🌱 I’m currently working as an Fullstack Engineer at Ueno International Corporation, Osaka.
