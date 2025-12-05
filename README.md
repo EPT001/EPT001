@@ -4,7 +4,7 @@
 🛠️ 主に Java／Python（Django）／React／SQL などを使用したアプリケーション開発を行っています。
 🌍 ポートフォリオやこれまでの制作物については、私の Web サイトをご覧いただけます。
 📫 お問い合わせは下記メールアドレスまでご連絡ください。
-- Email: eldhosthomas001@gmail.com
+Email: eldhosthomas001@gmail.com
 
 
 
